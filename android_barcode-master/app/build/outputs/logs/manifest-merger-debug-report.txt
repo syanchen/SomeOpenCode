@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Administrator\.android\build-cache\5ac3251ce2b30c570108daffd5595856ebaa53d0\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\93f5706d45ba82fd7f2f07c204056fc2e462e72e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\9b2b59457a440fd9e709fa891304afd23f111ff5\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\010ca9e120d824cbf25998f3ddea98650c154d88\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\896d8624ad48a6ae1e88f4407ca59a283699e003\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\90d264c72c3ef12d02233f6037d5671cd0b1955a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\bd15e4b052b87a7fb9cca77761835092a2f9f910\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.android\build-cache\db5a046e0784487609194145b4b38c448efd7f26\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\9919e20ba77b70492d8a95a5a710b09c406e1c76\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\6b43fa3bb099094a9cb0e38337d8282b89841d60\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\439101cc5bf8e0d5bdb556f037e1c7cc81c60f09\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\f3cd0d1a4c6fed8055f9ba8e787a0c606eb7be04\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\86965a2a4b9946a49e3f87ba3c89edf494661b41\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\fcc9c4d4e1db1cae78fd9bd4f7cbeca61c8b0b75\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\9b2b59457a440fd9e709fa891304afd23f111ff5\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:9:22-63
+uses-permission#android.permission.CAMERA
+ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:10:22-62
+uses-feature#android.hardware.camera
+ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:12:19-67
+application
+ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:14:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Administrator\.android\build-cache\5ac3251ce2b30c570108daffd5595856ebaa53d0\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\93f5706d45ba82fd7f2f07c204056fc2e462e72e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\9b2b59457a440fd9e709fa891304afd23f111ff5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\010ca9e120d824cbf25998f3ddea98650c154d88\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\896d8624ad48a6ae1e88f4407ca59a283699e003\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\90d264c72c3ef12d02233f6037d5671cd0b1955a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.android\build-cache\db5a046e0784487609194145b4b38c448efd7f26\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\9919e20ba77b70492d8a95a5a710b09c406e1c76\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\6b43fa3bb099094a9cb0e38337d8282b89841d60\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\439101cc5bf8e0d5bdb556f037e1c7cc81c60f09\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\f3cd0d1a4c6fed8055f9ba8e787a0c606eb7be04\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\86965a2a4b9946a49e3f87ba3c89edf494661b41\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\fcc9c4d4e1db1cae78fd9bd4f7cbeca61c8b0b75\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:15:9-45
+activity#com.ericssonlabs.BarCodeTestActivity
+ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:18:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.zxing.activity.CaptureActivity
+ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:screenOrientation
+		ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:30:13-49
+	android:windowSoftInputMode
+		ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:32:13-60
+	android:configChanges
+		ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:28:13-63
+	android:theme
+		ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:31:13-71
+	android:name
+		ADDED from E:\Android\android_barcode-master\app\src\main\AndroidManifest.xml:29:13-62
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\93f5706d45ba82fd7f2f07c204056fc2e462e72e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.android\build-cache\9b2b59457a440fd9e709fa891304afd23f111ff5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\010ca9e120d824cbf25998f3ddea98650c154d88\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\896d8624ad48a6ae1e88f4407ca59a283699e003\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\90d264c72c3ef12d02233f6037d5671cd0b1955a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\bd15e4b052b87a7fb9cca77761835092a2f9f910\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.android\build-cache\db5a046e0784487609194145b4b38c448efd7f26\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\9919e20ba77b70492d8a95a5a710b09c406e1c76\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\6b43fa3bb099094a9cb0e38337d8282b89841d60\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\439101cc5bf8e0d5bdb556f037e1c7cc81c60f09\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\f3cd0d1a4c6fed8055f9ba8e787a0c606eb7be04\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\86965a2a4b9946a49e3f87ba3c89edf494661b41\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\fcc9c4d4e1db1cae78fd9bd4f7cbeca61c8b0b75\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\93f5706d45ba82fd7f2f07c204056fc2e462e72e\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Administrator\.android\build-cache\93f5706d45ba82fd7f2f07c204056fc2e462e72e\output\AndroidManifest.xml:23:9-47

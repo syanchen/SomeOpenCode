@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\android_barcode-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\Android\\android_barcode-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\android_barcode-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\navbar.9.png",
+        "source": "E:\\Android\\android_barcode-master\\app\\src\\main\\res\\drawable-mdpi\\navbar.9.png"
+    }
+]
